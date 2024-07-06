@@ -58,7 +58,7 @@ grpc-user-service/ \
 
 ### 1. Clone the Repository
 ```shell
-git clone https://github.com/your/repository.git
+git clone https://github.com/amarsinghrathour/grpc-user-service
 cd grpc-user-service
 ```
 ### 2. Build and Run the Application
